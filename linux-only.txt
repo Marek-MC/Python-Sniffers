@@ -1,0 +1,3 @@
+ONLY works on Linux for security concerns.
+
+Tried and tested on Linux Kali!
